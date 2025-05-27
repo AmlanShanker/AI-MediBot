@@ -1,0 +1,1 @@
+An intelligent medical chatbot powered by Mistral (via HuggingFace Transformers), using a PDF-based medical document as its primary knowledge source. The chatbot features an interactive Streamlit user interface for seamless user interaction.
